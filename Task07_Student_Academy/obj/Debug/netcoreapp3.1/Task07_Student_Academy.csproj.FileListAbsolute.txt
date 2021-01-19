@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\bin\Debug\netcoreapp3.1\Task07_Student_Academy.exe
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\bin\Debug\netcoreapp3.1\Task07_Student_Academy.deps.json
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\bin\Debug\netcoreapp3.1\Task07_Student_Academy.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\bin\Debug\netcoreapp3.1\Task07_Student_Academy.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\bin\Debug\netcoreapp3.1\Task07_Student_Academy.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\bin\Debug\netcoreapp3.1\Task07_Student_Academy.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\obj\Debug\netcoreapp3.1\Task07_Student_Academy.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\obj\Debug\netcoreapp3.1\Task07_Student_Academy.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\obj\Debug\netcoreapp3.1\Task07_Student_Academy.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\obj\Debug\netcoreapp3.1\Task07_Student_Academy.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\obj\Debug\netcoreapp3.1\Task07_Student_Academy.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\obj\Debug\netcoreapp3.1\Task07_Student_Academy.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task07_Student_Academy\obj\Debug\netcoreapp3.1\Task07_Student_Academy.genruntimeconfig.cache
