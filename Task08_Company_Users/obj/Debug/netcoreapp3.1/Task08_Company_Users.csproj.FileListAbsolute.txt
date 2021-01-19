@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\bin\Debug\netcoreapp3.1\Task08_Company_Users.exe
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\bin\Debug\netcoreapp3.1\Task08_Company_Users.deps.json
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\bin\Debug\netcoreapp3.1\Task08_Company_Users.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\bin\Debug\netcoreapp3.1\Task08_Company_Users.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\bin\Debug\netcoreapp3.1\Task08_Company_Users.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\bin\Debug\netcoreapp3.1\Task08_Company_Users.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\obj\Debug\netcoreapp3.1\Task08_Company_Users.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\obj\Debug\netcoreapp3.1\Task08_Company_Users.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\obj\Debug\netcoreapp3.1\Task08_Company_Users.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\obj\Debug\netcoreapp3.1\Task08_Company_Users.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\obj\Debug\netcoreapp3.1\Task08_Company_Users.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\obj\Debug\netcoreapp3.1\Task08_Company_Users.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task08_Company_Users\obj\Debug\netcoreapp3.1\Task08_Company_Users.genruntimeconfig.cache
