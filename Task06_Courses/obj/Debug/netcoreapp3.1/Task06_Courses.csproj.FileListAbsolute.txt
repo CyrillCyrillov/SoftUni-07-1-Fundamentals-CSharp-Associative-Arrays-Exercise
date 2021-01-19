@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\obj\Debug\netcoreapp3.1\Task06_Courses.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\obj\Debug\netcoreapp3.1\Task06_Courses.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\obj\Debug\netcoreapp3.1\Task06_Courses.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\obj\Debug\netcoreapp3.1\Task06_Courses.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\bin\Debug\netcoreapp3.1\Task06_Courses.exe
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\bin\Debug\netcoreapp3.1\Task06_Courses.deps.json
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\bin\Debug\netcoreapp3.1\Task06_Courses.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\bin\Debug\netcoreapp3.1\Task06_Courses.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\bin\Debug\netcoreapp3.1\Task06_Courses.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\bin\Debug\netcoreapp3.1\Task06_Courses.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\obj\Debug\netcoreapp3.1\Task06_Courses.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\obj\Debug\netcoreapp3.1\Task06_Courses.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task06_Courses\obj\Debug\netcoreapp3.1\Task06_Courses.genruntimeconfig.cache
