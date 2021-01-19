@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\bin\Debug\netcoreapp3.1\Task09_ForceBook.exe
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\bin\Debug\netcoreapp3.1\Task09_ForceBook.deps.json
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\bin\Debug\netcoreapp3.1\Task09_ForceBook.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\bin\Debug\netcoreapp3.1\Task09_ForceBook.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\bin\Debug\netcoreapp3.1\Task09_ForceBook.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\bin\Debug\netcoreapp3.1\Task09_ForceBook.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\obj\Debug\netcoreapp3.1\Task09_ForceBook.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\obj\Debug\netcoreapp3.1\Task09_ForceBook.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\obj\Debug\netcoreapp3.1\Task09_ForceBook.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\obj\Debug\netcoreapp3.1\Task09_ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\obj\Debug\netcoreapp3.1\Task09_ForceBook.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\obj\Debug\netcoreapp3.1\Task09_ForceBook.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task09_ForceBook\obj\Debug\netcoreapp3.1\Task09_ForceBook.genruntimeconfig.cache
