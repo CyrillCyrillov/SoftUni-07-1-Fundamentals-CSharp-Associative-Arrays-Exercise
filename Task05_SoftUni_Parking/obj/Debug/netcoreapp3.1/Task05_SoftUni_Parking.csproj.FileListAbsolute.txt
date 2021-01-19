@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\bin\Debug\netcoreapp3.1\Task05_SoftUni_Parking.exe
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\bin\Debug\netcoreapp3.1\Task05_SoftUni_Parking.deps.json
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\bin\Debug\netcoreapp3.1\Task05_SoftUni_Parking.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\bin\Debug\netcoreapp3.1\Task05_SoftUni_Parking.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\bin\Debug\netcoreapp3.1\Task05_SoftUni_Parking.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\bin\Debug\netcoreapp3.1\Task05_SoftUni_Parking.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\obj\Debug\netcoreapp3.1\Task05_SoftUni_Parking.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\obj\Debug\netcoreapp3.1\Task05_SoftUni_Parking.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\obj\Debug\netcoreapp3.1\Task05_SoftUni_Parking.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\obj\Debug\netcoreapp3.1\Task05_SoftUni_Parking.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\obj\Debug\netcoreapp3.1\Task05_SoftUni_Parking.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\obj\Debug\netcoreapp3.1\Task05_SoftUni_Parking.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task05_SoftUni_Parking\obj\Debug\netcoreapp3.1\Task05_SoftUni_Parking.genruntimeconfig.cache
