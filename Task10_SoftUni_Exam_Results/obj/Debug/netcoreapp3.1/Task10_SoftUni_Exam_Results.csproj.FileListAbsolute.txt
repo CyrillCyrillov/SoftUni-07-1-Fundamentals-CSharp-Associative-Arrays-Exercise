@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\bin\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.exe
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\bin\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.deps.json
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\bin\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\bin\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\bin\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\bin\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\obj\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\obj\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\obj\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\obj\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\obj\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.dll
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\obj\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.pdb
+C:\Users\Kiril\source\repos\07_Exercise\Task10_SoftUni_Exam_Results\obj\Debug\netcoreapp3.1\Task10_SoftUni_Exam_Results.genruntimeconfig.cache
