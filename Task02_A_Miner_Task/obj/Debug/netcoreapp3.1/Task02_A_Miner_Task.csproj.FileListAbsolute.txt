@@ -1,5 +1,0 @@
-C:\Users\Kiril\source\repos\07_Exercise\Task02_A_Miner_Task\obj\Debug\netcoreapp3.1\Task02_A_Miner_Task.csprojAssemblyReference.cache
-C:\Users\Kiril\source\repos\07_Exercise\Task02_A_Miner_Task\obj\Debug\netcoreapp3.1\Task02_A_Miner_Task.AssemblyInfoInputs.cache
-C:\Users\Kiril\source\repos\07_Exercise\Task02_A_Miner_Task\obj\Debug\netcoreapp3.1\Task02_A_Miner_Task.AssemblyInfo.cs
-C:\Users\Kiril\source\repos\07_Exercise\Task02_A_Miner_Task\obj\Debug\netcoreapp3.1\Task02_A_Miner_Task.csproj.CoreCompileInputs.cache
-C:\Users\Kiril\source\repos\07_Exercise\Task02_A_Miner_Task\obj\Debug\netcoreapp3.1\Task02_A_Miner_Task.pdb
